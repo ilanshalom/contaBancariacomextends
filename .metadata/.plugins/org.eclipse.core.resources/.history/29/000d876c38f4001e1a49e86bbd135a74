@@ -1,0 +1,14 @@
+package application;
+
+import entities.Account;
+
+
+public class Program {
+
+	public static void main(String[] args) {
+    
+		Account acc1 = new Account(1001, "ILan", 1000.0); 
+		
+
+ }
+}
